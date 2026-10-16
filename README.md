@@ -21,6 +21,8 @@ npx skills add WST2002/claude-code-skills
 claude plugin marketplace add WST2002/claude-code-skills && claude plugin install issue-to-pr@claude-code-skills
 ```
 
+Needs: Node.js 18+, Git, and [GitHub CLI](https://cli.github.com) logged in once with `gh auth login` (to read issues and open PRs). Jira tickets work when the Atlassian tools are connected in Claude Code, or just paste the ticket text.
+
 | | |
 |---|---|
 | 🐛 **`/fix-issue 123`** | From a GitHub issue or Jira ticket to a tested fix and a draft PR |
