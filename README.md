@@ -18,3 +18,5 @@ Full Stack Engineer from India. I build fast, responsive web products and, latel
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
 **💬 Talk to me about** frontend performance, scroll-driven UI, and building with AI agents.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wst2002/)
