@@ -2,8 +2,32 @@
 
 Full Stack Engineer from India with 3.5 years of experience. I build fast, responsive web products and, lately, tools that make AI coding agents more reliable.
 
-**🔨 Currently building**
-- **Claude Code plugins** that make AI agents prove their work before they say "done": tests run, build passes, UI verified. *Coming soon.*
+### ⚡ Featured: [Claude Code Skills & Plugins](https://github.com/WST2002/claude-code-skills)
+
+[![Stars](https://img.shields.io/github/stars/WST2002/claude-code-skills?style=flat&logo=github&label=Stars)](https://github.com/WST2002/claude-code-skills)
+![Skills](https://img.shields.io/badge/skills-27-D97757?style=flat)
+![Plugins](https://img.shields.io/badge/plugins-2-D97757?style=flat)
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat)
+
+27 ready-to-use skills and 2 plugins for Claude Code. Install in one command:
+
+```bash
+npx skills add WST2002/claude-code-skills
+```
+
+| | |
+|---|---|
+| 🐛 **`/fix-issue 123`** | From a GitHub issue or Jira ticket to a tested fix and a draft PR |
+| ✅ **proof-of-done** | The agent cannot say "done" until tests and build pass |
+| 🔒 **security-audit** · **code-review** | Real bugs and vulnerabilities with file:line, attack scenario and fix |
+| 🎨 **figma-design-compare** | Check a built screen against its Figma frame: font, color, spacing, size |
+| 🧪 **test-case-generator** · **playwright-e2e-tests** · **api-test-writer** | Testing and QA from requirement to automation |
+
+**[→ See all skills](https://github.com/WST2002/claude-code-skills#skills)** · ⭐ Star the repo if it saves you time
+
+### 🌐 Portfolio
+
+**[wst2002.github.io](https://wst2002.github.io)** — projects, experience and contact
 
 **🧰 Stack**
 
