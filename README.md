@@ -15,6 +15,12 @@ Full Stack Engineer from India with 3.5 years of experience. I build fast, respo
 npx skills add WST2002/claude-code-skills
 ```
 
+**🐛 issue-to-pr** — from a GitHub issue or Jira ticket to a tested fix and a draft PR. Install, then run `/fix-issue 123` in Claude Code:
+
+```bash
+claude plugin marketplace add WST2002/claude-code-skills && claude plugin install issue-to-pr@claude-code-skills
+```
+
 | | |
 |---|---|
 | 🐛 **`/fix-issue 123`** | From a GitHub issue or Jira ticket to a tested fix and a draft PR |
