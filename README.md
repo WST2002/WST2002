@@ -1,6 +1,6 @@
 ### Hi, I'm Wageesha 👋
 
-Full Stack Engineer from India. I build fast, responsive web products and, lately, tools that make AI coding agents more reliable.
+Full Stack Engineer from India with 3.5 years of experience. I build fast, responsive web products and, lately, tools that make AI coding agents more reliable.
 
 **🔨 Currently building**
 - **Claude Code plugins** that make AI agents prove their work before they say "done": tests run, build passes, UI verified. *Coming soon.*
