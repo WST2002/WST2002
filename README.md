@@ -50,7 +50,7 @@ Needs: Node.js 18+, Git, and [GitHub CLI](https://cli.github.com) logged in once
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
-**💬 Talk to me about** full-stack web development, frontend performance, scroll-driven UI, 3D on the web, and building with AI agents.
+**💬 Talk to me about** web development, frontend performance, scroll-driven UI, 3D on the web, and building with AI agents.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wst2002/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tripathiwageesha2002@gmail.com)
