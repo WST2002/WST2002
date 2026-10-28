@@ -5,11 +5,11 @@ Software Engineer from India. I build fast, responsive web products and, lately,
 ### ⚡ Featured: [Claude Code Skills & Plugins](https://github.com/WST2002/claude-code-skills)
 
 [![Stars](https://img.shields.io/github/stars/WST2002/claude-code-skills?style=flat&logo=github&label=Stars)](https://github.com/WST2002/claude-code-skills)
-![Skills](https://img.shields.io/badge/skills-27-D97757?style=flat)
+![Skills](https://img.shields.io/badge/skills-31-D97757?style=flat)
 ![Plugins](https://img.shields.io/badge/plugins-2-D97757?style=flat)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat)
 
-27 ready-to-use skills and 2 plugins for Claude Code. Install in one command:
+31 ready-to-use skills and 2 plugins for Claude Code. Install in one command:
 
 ```bash
 npx skills add WST2002/claude-code-skills
@@ -32,6 +32,20 @@ Needs: Node.js 18+, Git, and [GitHub CLI](https://cli.github.com) logged in once
 | 🧪 **test-case-generator** · **playwright-e2e-tests** · **api-test-writer** | Testing and QA from requirement to automation |
 
 **[→ See all skills](https://github.com/WST2002/claude-code-skills#skills)** · ⭐ Star the repo if it saves you time
+
+### 🔀 [which-ai-to-use](https://github.com/WST2002/which-ai-to-use)
+
+[![npm](https://img.shields.io/npm/v/which-ai-to-use?style=flat&logo=npm&label=npm)](https://www.npmjs.com/package/which-ai-to-use)
+[![VS Code Marketplace](https://img.shields.io/badge/VS_Code-Marketplace-007ACC?style=flat)](https://marketplace.visualstudio.com/items?itemName=wst2002.which-ai-to-use)
+[![Open VSX](https://img.shields.io/open-vsx/v/wst2002/which-ai-to-use?style=flat&label=Open%20VSX)](https://open-vsx.org/extension/wst2002/which-ai-to-use)
+
+Claude's limit ran out mid-task? Don't re-explain everything to another AI. which-ai-to-use reads your Claude Code chat, writes `HANDOFF.md` and hands the task to Antigravity CLI, Codex or another AI. It also shows what wastes your tokens, warns you before the limit runs out, and picks the best AI and model for each task.
+
+```bash
+npx which-ai-to-use
+```
+
+VS Code: [Marketplace](https://marketplace.visualstudio.com/items?itemName=wst2002.which-ai-to-use) · Cursor and Windsurf: [Open VSX](https://open-vsx.org/extension/wst2002/which-ai-to-use) · ▶ [36-second demo](https://youtube.com/shorts/LCt2H7bFwLg) · 📖 [Read the story](https://dev.to/wst2002rk/how-i-switch-between-ai-coding-tools-mid-task-without-losing-context-codex-claude-code-gemini-37kf)
 
 ### 🌐 Portfolio
 
