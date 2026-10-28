@@ -70,3 +70,8 @@ VS Code: [Marketplace](https://marketplace.visualstudio.com/items?itemName=wst20
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tripathiwageesha2002@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Wagee_ST2002/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@wst2002rk)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/wst2002rk)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://wst2002rk.hashnode.dev)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~wstrk2002)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white)](https://www.pinterest.com/wst2002rk/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat&logo=googlechrome&logoColor=white)](https://wst2002.github.io)
