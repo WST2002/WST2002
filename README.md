@@ -47,6 +47,12 @@ npx which-ai-to-use
 
 VS Code: [Marketplace](https://marketplace.visualstudio.com/items?itemName=wst2002.which-ai-to-use) · Cursor and Windsurf: [Open VSX](https://open-vsx.org/extension/wst2002/which-ai-to-use) · ▶ [36-second demo](https://youtube.com/shorts/LCt2H7bFwLg) · 📖 [Read the story](https://dev.to/wst2002rk/how-i-switch-between-ai-coding-tools-mid-task-without-losing-context-codex-claude-code-gemini-37kf)
 
+### 🧾 [Proof of Done for Jira](https://github.com/WST2002/proof-of-done-jira)
+
+Jira said Done, CI was green, and a test had quietly stopped checking anything. Proof of Done for Jira is a free, open-source Forge app that reads the pull requests behind a work item and blocks Done when a test was skipped, deleted or loosened to get green. It shows the file, the line and the test before and after, works with GitHub and Bitbucket, and has a Rovo agent and MCP tools. My entry for Atlassian Codegeist 2026.
+
+▶ [4-minute demo](https://youtu.be/1SK-aSDd0xo) · 📖 [Read the story](https://dev.to/wst2002rk/jira-said-done-it-wasnt-and-the-bug-showed-up-later-so-i-made-jira-check-first-9ed) · 🏆 [Devpost](https://devpost.com/software/proof-of-done-for-jira)
+
 ### 🌐 Portfolio
 
 **[wst2002.github.io](https://wst2002.github.io)** — projects, experience and contact
